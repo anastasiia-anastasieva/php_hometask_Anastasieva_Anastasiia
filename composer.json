@@ -16,5 +16,6 @@
     ],
     "minimum-stability": "beta",
     "require": {
+        "smarty/smarty": "^4.3"
     }
 }
